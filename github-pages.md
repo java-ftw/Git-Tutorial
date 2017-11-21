@@ -6,4 +6,5 @@
 # Nasze strony
 - [Michał Ciołek](https://michalciolek.github.io)
 - [Maciej Ziółkowski](https://mziolkowski.github.io)
+- [Daniel Mroczkowski](https://danielmroczkowski.github.io/)
 - `TODO`
