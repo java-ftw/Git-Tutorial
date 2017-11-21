@@ -29,7 +29,7 @@ Dodaje wszystkie zmienione pliki do commita
 Udostępnia możliwość dodania wybranych linii w zmodyfikowanym pliku do commita
 - **git commit -m "[treść_commita]"**
 Dodaje opis do commita. Dobrym zwyczajem jest opisanie co ta zmiana wprowadza do kodu w zakresie funkcjonalnym
-- **git add origin [adres_repozytorium, np. https://github.com/username/moje-repozytorium.git]**
+- **git add origin [adres_repozytorium, np. https://github.com/username/moje-repozytorium.git] **
 Ustawia konkretny adres zdalnego repozytorium jako główne repozytorium
 - **git push origin master**
 Wysłanie zmian do branacha zdalnego
@@ -80,26 +80,4 @@ Usuwanie ostatniego commita z brancha
 Obydwie komendy usuwają ostatnie 2 zmiany z brancha. Im więcej daszków (^) tym więcej commitów zostanie usuniętych.
 - **git rebase -i HEAD~3**
 Interaktywne zmienianie zawartości, opisów commitów. Commity mozna łączyć wtedy w jeden duży, zmienić jego opis, itd.
-
-# Kilka przydatnych komend do obsługi "Markdown"
-
-### Welcome to MarkdownPad 2 ###
-
-**MarkdownPad** is a full-featured Markdown editor for Windows.
-
-### Built exclusively for Markdown ###
-
-Enjoy first-class Markdown support with easy access to  Markdown syntax and convenient keyboard shortcuts.
-
-Give them a try:
-
-- **Bold** (`Ctrl+B`) and *Italic* (`Ctrl+I`)
-- Quotes (`Ctrl+Q`)
-- Code blocks (`Ctrl+K`)
-- Headings 1, 2, 3 (`Ctrl+1`, `Ctrl+2`, `Ctrl+3`)
-- Lists (`Ctrl+U` and `Ctrl+Shift+O`)
-
-### See your changes instantly with LivePreview ###
-
-Don't guess if your [hyperlink syntax](http://markdownpad.com) is correct; LivePreview will show you exactly what your document looks like every time you press a key.
 
